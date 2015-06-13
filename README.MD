@@ -60,4 +60,5 @@ The database table include `wp_links`, `wp_terms`, `wp_term_taxonomy` and `wp_te
 
 [http://doc.scrapy.org/en/latest/](http://doc.scrapy.org/en/latest/)
 
-[git@github.com:scrapinghub/portia.git](git@github.com:scrapinghub/portia.git)
+[git@github.com:scrapinghub/portia.git](https://github.com/scrapinghub/portia)
+
